@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-24292f?style=for-the-badge" alt="English">
   </a>
   <a href="#turkce">
-    <img src="https://img.shields.io/badge/🇹🇷_TÜRKÇE-24292f?style=for-the-badge" alt="Türkçe">
+    <img src="https://img.shields.io/badge/🇹🇷_TÜRKÇE-24292f?style=for-the-badge" alt="Turkish">
   </a>
 </p>
 
@@ -136,7 +136,7 @@ The developer does not encourage or endorse copyright infringement or unauthoriz
 
 ---
 
-<a id="türkçe"></a>
+<a id="Turkish"></a>
 
 # 🎵 YouTube Medya İndirici
 
